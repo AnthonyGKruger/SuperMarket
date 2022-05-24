@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Super!Market</string>
+    <string name="store_name">Store Name:</string>
+    <string name="store_address">Store Address:</string>
+    <string name="store_name_here">Store Name Here...</string>
+    <string name="store_address_here">Store Address Here...</string>
+    <string name="save_details">Save Details</string>
+    <string name="rate_store">Rate Store</string>
+    <string name="liquor_department">Liquor department:</string>
+    <string name="save_rating">Save Rating</string>
+    <string name="average">Average</string>
+    <string name="produce_department">Produce department:</string>
+    <string name="cheese_selection">Cheese selection:</string>
+    <string name="ease_of_checkout">Ease of checkout:</string>
+    <string name="return_to_main">Return</string>
+</resources>
